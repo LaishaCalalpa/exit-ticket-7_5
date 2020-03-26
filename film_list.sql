@@ -23,5 +23,5 @@ SELECT rating AS "Rating", count(rating) AS "Rating Count"
 FROM film_list
 GROUP BY rating;
 
- UPDATE film_list SET category='International' WHERE category='Foreign';
- DELETE FROM film_list WHERE category='Children';
+UPDATE film_list SET category='International' WHERE category='Foreign';
+DELETE FROM film_list WHERE category='Children';
