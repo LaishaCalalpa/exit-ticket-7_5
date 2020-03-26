@@ -13,4 +13,4 @@ For the following exercises, we will be using the `film_list` table. In the SQL 
   5. Write a query that returns all of the film `genre`s along with their average price and average length.
   6. Write a query that returns all of the film `ratings`s along with a count of how many time that rating appears in our table.
   7. Instead of us calling films "foreign," write a query that updates all "foreign" films to "international" films.
-  8. We don't like "childrens" films. Delete all of them from this table. 
+  8. We don't like "childrens" films. Delete all of them from this table.
